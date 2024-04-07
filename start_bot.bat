@@ -1,0 +1,2 @@
+node oldindex.js
+PAUSE
